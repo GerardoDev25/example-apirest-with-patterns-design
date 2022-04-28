@@ -1,0 +1,25 @@
+{
+  "name": "example",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GerardoDev25/example-apirest-with-patterns-design.git"
+  },
+  "keywords": [],
+  "author": "Gerardo Miranda <gerardodev25@gmail.com> (https://github.com/GerardoDev25)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GerardoDev25/example-apirest-with-patterns-design/issues"
+  },
+  "homepage": "https://github.com/GerardoDev25/example-apirest-with-patterns-design#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.0"
+  }
+}
